@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Pills",
+        "subEventTypes": [
+            "pull down bottle",
+            "unscrew lid",
+            "dump pills out",
+            "screw lid on",
+            "put bottle away"
+        ]
+    },
+    {
+		"name": "Move"
+    }
+]
